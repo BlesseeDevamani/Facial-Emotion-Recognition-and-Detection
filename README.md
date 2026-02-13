@@ -150,9 +150,9 @@ This project is licensed under the MIT License.
 ---
 
 ## 👩‍💻 Author
-Your Name  
-Bachelor of Computer Science and Engineering  
-Machine Learning Enthusiast
+Yadiki Blessee Devamani  
+Btech-Computer Science and Engineering  
+blesseedevamani751@gmail.com
 # Face_Emotion_Recognition_Machine_Learning
 Face Emotion Recognition using Machine Learning Python
 
